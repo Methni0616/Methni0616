@@ -40,14 +40,16 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Methni0616&show_icons=true&theme=dark&locale=en" alt="Methni0616" /></p>
 <br><br><br><br><br><br><br><br><br><br>
 
+ <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Methni0616&theme=dark&hide_border=false" /> 
+<br>
 <!-- GitHub Activity Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Methni0616&theme=react-dark&bg_color=0d1117&color=ffffff&line=00e676&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph for Methni0616" />
 </p>
 
 
-<br><br><br><br><br><br><br><br><br><br>
-<hr width="60%" />
+<br><br>
+
 
 
 
