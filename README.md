@@ -34,25 +34,15 @@
 
 <br>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Methni0616&show_icons=true&theme=dark&locale=en&layout=compact" alt="Methni0616" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Methni0616&show_icons=true&theme=dark&locale=en&layout=compact" alt="Methni0616" /></p>
 
 <br><br><br><br><br><br><br>
-
-<p>
-  &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Methni0616&show_icons=true&theme=dark&locale=en" alt="Methni0616" />
-</p>
-
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Methni0616&show_icons=true&theme=dark&locale=en" alt="Methni0616" /></p>
 <br><br><br><br><br><br><br><br><br><br>
 
-<p>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Methni0616&theme=dark" alt="Methni0616" />
-</p>
-
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Methni0616&theme=dark" alt="Methni0616" /></p>
 <br><br><br><br><br><br><br><br><br><br>
-
-<hr width="60%">
+<hr width="60%" />
 
 
 
