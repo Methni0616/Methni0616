@@ -43,7 +43,7 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Methni0616&show_icons=true&theme=dark&locale=en" alt="Methni0616" /></p>
 
 <br><br><br><br><br><br><br><br><br><br>
-
+<img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Methni0616&theme=dark&hide_border=false" /> 
 
  
 <br>
