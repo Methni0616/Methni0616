@@ -44,7 +44,7 @@
 
 <br><br><br><br><br><br><br><br><br><br>
 
-<img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Methni0616&theme=dark&hide_border=false" /> 
+
  
 <br>
 
