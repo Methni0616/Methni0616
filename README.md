@@ -32,17 +32,22 @@
 
 <h3>📊 My GitHub Stats</h3>
 
+<p align="left">
+  <a href="https://github.com/Methni0616">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Methni0616&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+
+ <br><br>
+ 
+  <a href="https://github.com/Methni0616">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Methni0616&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
+
 <img align="right" alt="Coding" width="500" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg">
 
-<br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Methni0616&show_icons=true&theme=dark&locale=en&layout=compact" alt="Methni0616" /></p>
-
-<br><br><br><br><br><br><br>
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Methni0616&show_icons=true&theme=dark&locale=en" alt="Methni0616" /></p>
-
-<br><br><br><br><br><br><br><br><br><br>
+<br><br>
 <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Methni0616&theme=dark&hide_border=false" /> 
 
  
