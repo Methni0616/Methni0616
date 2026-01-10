@@ -37,7 +37,7 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Methni0616&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
 
- <br> <br>
+ 
  <img align="right" alt="Coding" width="500" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg">
  
   <a href="https://github.com/Methni0616">
