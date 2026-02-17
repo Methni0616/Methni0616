@@ -38,7 +38,7 @@
   </a>
 
  
- <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg">
+ <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg">
  
   <a href="https://github.com/Methni0616">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Methni0616&layout=compact&langs_count=8&theme=algolia"/>
