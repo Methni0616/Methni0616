@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **methnimanarandi7@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1YEWONpe1D-FeTKV_c5CxInSfv0t7_V9R/view?usp=sharing](https://drive.google.com/file/d/1YEWONpe1D-FeTKV_c5CxInSfv0t7_V9R/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1YEWONpe1D-FeTKV_c5CxInSfv0t7_V9R/view?usp=sharing](https://drive.google.com/file/d/14lSYd3NEP7Yn_KKtqEeigiVfi30-BI9U/view?usp=sharing)
 <br><br>
 <h3 align="left">🌐 Connect with me</h3>
 
